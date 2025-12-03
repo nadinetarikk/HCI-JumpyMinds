@@ -1,7 +1,7 @@
 
   # Jumpy Minds
 
-  This is a code bundle for Jumpy Minds. The original project is available at https://www.figma.com/design/hKQ05hlwhvDMWlstL2WDLT/Jumpy-Minds.
+  This is a code bundle for Jumpy Minds. The original website is available at https://asset-happy-40164826.figma.site
 
   ## Running the code
 
